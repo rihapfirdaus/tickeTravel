@@ -1,7 +1,11 @@
 # tickeTravel
 ---
 Nama: Muhammad Rihap Firdaus
+
 NIM : 1217050102
+
+link website: https://rihapfirdaus.github.io/tickeTravel/
+
 ### Apps Feature
 1. Menginput Nama
 ![InputName](https://github.com/rihapfirdaus/tickeTravel/blob/gh-pages/documentation/InputName.png?raw=true)
